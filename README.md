@@ -12,27 +12,27 @@ Além disso, o projeto conta com testes automatizados utilizando JUnit (@Test), 
 
 Tecnologias e Conceitos Utilizados:
 
-Java
-Java Swing (interface gráfica)
-Arquivos .csv para persistência
-Testes automatizados com JUnit
-Programação Orientada a Objetos (POO)
-Classes e Objetos
-Encapsulamento
-Herança
-Polimorfismo
-Interfaces
-Coleções
-Tratamento de exceções
+Java,
+Java Swing (interface gráfica),
+Arquivos .csv para persistência,
+Testes automatizados com JUnit,
+Programação Orientada a Objetos (POO),
+Classes e Objetos,
+Encapsulamento,
+Herança,
+Polimorfismo,
+Interfaces,
+Coleções,
+Tratamento de exceções.
 
 Funcionalidades Principais:
 
-Cadastro de produtos
-Atualização de informações
-Listagem e busca
-Remoção de registros
-Persistência dos dados em .csv
-Testes para garantir estabilidade das regras de negócio
+Cadastro de produtos,
+Atualização de informações,
+Listagem e busca,
+Remoção de registros,
+Persistência dos dados em .csv,
+Testes para garantir estabilidade das regras de negócio.
 
 Objetivo do Projeto:
 
