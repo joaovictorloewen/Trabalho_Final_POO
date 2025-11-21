@@ -1,9 +1,13 @@
 Descrição do Projeto:
 
 Este projeto foi desenvolvido como trabalho final da disciplina de Programação Orientada a Objetos da universidade FURB.
+
 O sistema consiste em uma aplicação para gerenciamento de uma loja de tecnologias, permitindo cadastrar, editar, visualizar e remover itens de forma organizada.
+
 A interface foi construída utilizando Java Swing, proporcionando uma experiência visual simples e funcional.
+
 Para armazenamento dos dados, optou-se pela utilização de arquivos .csv, funcionando como uma alternativa leve e acessível a um banco de dados tradicional.
+
 Além disso, o projeto conta com testes automatizados utilizando JUnit (@Test), garantindo a validação do comportamento das principais funcionalidades do sistema.
 
 Tecnologias e Conceitos Utilizados:
