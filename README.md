@@ -43,4 +43,5 @@ Aplicar de forma prática os principais conceitos de POO, aliando interface grá
 João Victor Loewen, 
 Lucas Shimazaki Battisti, 
 Pedro Renan Luna Tavares.
+
 FURB — 2025.
